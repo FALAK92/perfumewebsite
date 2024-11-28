@@ -2,7 +2,7 @@ import React from "react";
 
 const products = [
   {
-    image: "/product1.webp",
+    image: "/pp1.avif",
     title: "Sephora",
     description: " sweet, juicy, and slightly floral scent that's similar to the smell of fresh, ripe peaches.",
   },
